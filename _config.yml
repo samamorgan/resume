@@ -1,0 +1,148 @@
+# Site
+repository: samamorgan/samamorgan.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Sam Morgan
+title: Software Developer
+email: sama4mail@gmail.com
+website: www.samamorgan.com
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: samamorgan1
+github_username: samamorgan
+stackoverflow_username: "4881095"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: samamorgan86
+linkedin_username: sam-a-morgan
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: samamorgan
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: |
+  Programmer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
+
+  I am proficient with:
+  - <mark>Python</mark> <mark>JavaScript</mark> <mark>C/C++</mark> <mark>Java</mark> <mark>HTML</mark> <mark>CSS</mark>
+  - <mark>SQL</mark> <mark>NoSQL</mark>
+  - <mark>Windows</mark> <mark>Mac</mark> <mark>Linux</mark>
+  - <mark>Git</mark> <mark>GitHub</mark> <mark>Bitbucket</mark>
+  - <mark>AWS</mark> <mark>Google Cloud</mark> <mark>Google Apps Script</mark>
+
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Plugable Technologies
+        link: plugable.com
+        sub_title: Software Developer
+        caption: January 2014 - Present
+        quote: >
+          Lead developer at an online seller startup. Previous roles have included Product Owner, CNC Machinist, Graphic Designer, and Inventory Manager. Started as sixth member of company. Now second-most senior employee.
+        description: |
+          - Create and maintain Amazon AWS automations using Python
+          - Upgrade and maintain Plugdebug, company's Python-based debug tool
+          - Develop and maintain mission-critical Google Sheets for pricing, sales, and ad data
+          - Meet weekly with the CEO to plan feature updates and technology changes
+          - Designed and implemented an ESP8266-based physical access control system
+          - Manage graduate-level intern projects
+
+      - layout: left
+        title: Discount Divers Supply
+        link: discountdivers.com
+        sub_title: System Administrator
+        caption: 2013 - 2014
+        quote: >
+          Expansive responsibilities as a System Administrator, SCUBA technician, and Sales Associate
+        description: |
+          - Managed three POS/inventory systems
+          - Recommended and implemented hardware upgrades
+          - Trained sales staff
+          - SCUBA Technician: Repaired, certified, and sold SCUBA equipment
+
+      - layout: left
+        title: The Computer Shop
+        sub_title: Computer Repair Technician
+        caption: 2005 - 2013
+        description: |
+          - Built, managed, and maintained computer and network systems for offices ranging from 4 – 20 employees
+          - Consulted with home-use customers. Recommended and installed upgrades post-consultation
+
+      - layout: left
+        title: Fletcher Contracting
+        sub_title: Construction Laborer
+        caption: 2004 - 2005
+
+  - title: Education
+    layout: list
+    content:
+      - layout: center
+        title: Western Governors University
+        caption: Graduated January 2021
+        sub_title: Bachelor's of Science in Software Development
+
+  - title: Certifications
+    layout: text
+    content: |
+      - CIW Advanced HTML5 and CSS3 Specialist
+      - CIW User Interface Designer
+      - CIW Web Design Professional
+      - CIW Web Design Specialist
+      - CIW Web Foundations Associate
+      - CompTIA A+
+      - CompTIA Network+
+      - CompTIA Project+
+      - ITIL Foundation
+      - MTA: Windows OS Fundamentals
+
+  - title: Volunteering
+    layout: list
+    content:
+      - layout: left
+        title: Washington Trails Association
+        quote: >
+          I volunteer with the WTA to help build and maintain hiking trails around western Washington.
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      In my free time, I can most often be found working on my 1920s Craftsman house. The only thing that works in an old house is the owner! I also enjoy hiking, tinkering with electronics, and working on my project cars.
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag

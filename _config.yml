@@ -61,7 +61,7 @@ content:
         title: Plugable Technologies
         link: plugable.com
         sub_title: Software Developer
-        caption: January 2014 - Present
+        caption: Remote • January 2014 - Present
         quote: >
           Lead developer at an online seller startup. Previous roles have included Product Owner, CNC Machinist, Graphic Designer, and Inventory Manager. Started as sixth member of company. Now second-most senior employee.
         description: |
@@ -76,19 +76,19 @@ content:
         title: Discount Divers Supply
         link: discountdivers.com
         sub_title: System Administrator
-        caption: 2013 - 2014
+        caption: Seattle, WA • 2013 - 2014
         quote: >
           Expansive responsibilities as a System Administrator, SCUBA technician, and Sales Associate
         description: |
           - Managed three POS/inventory systems
           - Recommended and implemented hardware upgrades
-          - Trained sales staff
+          - Trained sales staff on use of systems
           - SCUBA Technician: Repaired, certified, and sold SCUBA equipment
 
       - layout: left
         title: The Computer Shop
         sub_title: Computer Repair Technician
-        caption: 2005 - 2013
+        caption: Renton, WA • 2005 - 2013
         description: |
           - Built, managed, and maintained computer and network systems for offices ranging from 4 – 20 employees
           - Consulted with home-use customers. Recommended and installed upgrades post-consultation
@@ -96,7 +96,7 @@ content:
       - layout: left
         title: Fletcher Contracting
         sub_title: Construction Laborer
-        caption: 2004 - 2005
+        caption: Molalla, OR • 2004 - 2005
 
   - title: Education
     layout: list
@@ -104,7 +104,7 @@ content:
       - layout: center
         title: Western Governors University
         caption: Graduated January 2021
-        sub_title: Bachelor's of Science in Software Development
+        sub_title: B.S. Software Development
 
   - title: Certifications
     layout: text
@@ -125,7 +125,7 @@ content:
     content:
       - layout: left
         title: Washington Trails Association
-        quote: >
+        description: |
           I volunteer with the WTA to help build and maintain hiking trails around western Washington.
 
   - title: A Little More About Me

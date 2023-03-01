@@ -11,7 +11,7 @@ Engineer with a proven track record of organizing user and business needs into s
 
 ## Professional Experience
 
-### Lightmatter Inc. - New York, NY
+### Lightmatter Inc. - Remote
 
 #### _Senior Software Engineer, Feb. 2022 to Feb. 2023_
 
@@ -27,7 +27,7 @@ Senior engineer at a health tech focused software consulting agency leading deve
 - Author and maintainer for the open-source Django app [django-welkin](https://github.com/Lightmatter/django-welkin).
 - Paired with and continuously mentored 3-5 engineers as part of grooming for engineering management position.
 
-### Plugable Technologies - Redmond, WA
+### Plugable Technologies - Remote
 
 #### _Software Developer, Jan. 2014 to Feb. 2022_
 

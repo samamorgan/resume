@@ -44,12 +44,6 @@ linkedin_username: sam-a-morgan
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: Engineer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
-  I am proficient with:
-  - <mark>Python</mark> <mark>JavaScript</mark> <mark>C/C++</mark> <mark>Java</mark> <mark>HTML</mark> <mark>CSS</mark>
-  - <mark>SQL</mark> <mark>NoSQL</mark>
-  - <mark>Windows</mark> <mark>Mac</mark> <mark>Linux</mark>
-  - <mark>Git</mark> <mark>GitHub</mark> <mark>Bitbucket</mark>
-  - <mark>AWS</mark> <mark>Google Cloud</mark> <mark>Google Apps Script</mark>
 
 content:
   - title: Experience

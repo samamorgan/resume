@@ -6,16 +6,13 @@
     <a href="https://linkedin.com/in/sam-a-morgan"><img src="https://raw.githubusercontent.com/samamorgan/resume/master/svg/linkedin.svg?sanitize=true" width="25" height="25"></a>
     <a href="https://github.com/samamorgan"><img src="https://raw.githubusercontent.com/samamorgan/resume/master/svg/github.svg?sanitize=true" width="25" height="25"></a>
     <a href="https://stackoverflow.com/users/4881095/"><img src="https://raw.githubusercontent.com/samamorgan/resume/master/svg/stackoverflow.svg?sanitize=true" width="25" height="25"></a>
-    <a href="https://bitbucket.org/%7Bc013ad60-23b6-40a8-a220-78f4663048b5%7D/"><img src="https://raw.githubusercontent.com/samamorgan/resume/master/svg/bitbucket.svg?sanitize=true" width="25" height="25"></a>
-    <a href="https://reddit.com/u/samamorgan"><img src="https://raw.githubusercontent.com/samamorgan/resume/master/svg/reddit.svg?sanitize=true" width="25" height="25"></a>
-    <a href="https://twitter.com/samamorgan1"><img src="https://raw.githubusercontent.com/samamorgan/resume/master/svg/twitter.svg?sanitize=true" width="25" height="25"></a>
 </p>
 
-### Software Developer • Python Engineer
+### Senior Software Engineer
 
 ---
 
-Programmer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
+Engineer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
 
 ### Technology Exposure
 

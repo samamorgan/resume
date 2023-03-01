@@ -15,17 +15,17 @@ website: www.samamorgan.com
 darkmode: false
 
 # Social links
-twitter_username: samamorgan1
+# twitter_username: samamorgan1
 github_username: samamorgan
 stackoverflow_username: "4881095"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: samamorgan86
+# instagram_username: samamorgan86
 linkedin_username: sam-a-morgan
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: samamorgan
+# youtube_username: samamorgan
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -43,9 +43,7 @@ youtube_username: samamorgan
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: |
-  Programmer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
-
+about_content: Engineer with a proven track record of organizing user and business needs into scalable, durable, and user-friendly solutions. Heavily focused on pay-it-forward style production code that is clean, maintainable, and modular.
   I am proficient with:
   - <mark>Python</mark> <mark>JavaScript</mark> <mark>C/C++</mark> <mark>Java</mark> <mark>HTML</mark> <mark>CSS</mark>
   - <mark>SQL</mark> <mark>NoSQL</mark>
@@ -58,19 +56,39 @@ content:
     layout: list
     content:
       - layout: left
+        title: Lightmatter, Inc.
+        link: lightmatter.com
+        sub_title: Senior Software Engineer
+        caption: Remote • Feb. 2022 - Feb. 2023
+        quote: >
+          Senior engineer at a health tech focused software consulting agency leading development of startup client projects and open-source packages.
+        description: |
+          <mark>Python</mark><mark>Django</mark><mark>Postgres</mark><mark>Typescript</mark><mark>Alpine.js</mark><mark>React</mark><mark>HTMX</mark><mark>Tailwind CSS</mark><mark>Jinja</mark>
+
+          - Continuous contribution and planning for open-source project template, [django-hydra](https://github.com/Lightmatter/django-hydra). Work included refactoring test suite to use Pytest, automating CI/CD with GitHub actions and dependabot, converting existing automations to work on any OS, and innumerable small contributions and bugfixes.
+          - Contributed to Farewell Fax, Lightmatter's job board service.
+          - Lead engineer for Zest, a telehealth dermatology clinic.
+          - Lead engineer for replacement of the Health Tech Nerds application.
+          - Author and maintainer for the open-source Python API wrapper welkin-health.
+          - Author and maintainer for the open-source Django app django-welkin.
+          - Paired with and continuously mentored 3-5 engineers as part of grooming for engineering management position.
+
+      - layout: left
         title: Plugable Technologies
         link: plugable.com
         sub_title: Software Developer
-        caption: Remote • January 2014 - Present
+        caption: Remote • Jan. 2014 - Feb. 2022
         quote: >
-          Lead developer at an online seller startup. Previous roles have included Product Owner, CNC Machinist, Graphic Designer, and Inventory Manager. Started as sixth member of company. Now second-most senior employee.
+          Lead developer at an e-commerce startup. Roles included Software Developer, Product Owner, CNC Machinist, Graphic Designer, and Inventory Manager. Started as sixth member of company. Ended as second-most senior employee.
         description: |
-          - Create and maintain Amazon AWS automations using Python
-          - Upgrade and maintain Plugdebug, company's Python-based debug tool
-          - Develop and maintain mission-critical Google Sheets for pricing, sales, and ad data
-          - Meet weekly with the CEO to plan feature updates and technology changes
-          - Designed and implemented an ESP8266-based physical access control system
-          - Manage graduate-level intern projects
+          <mark>Python</mark><mark>SQL</mark><mark>AWS</mark><mark>Google Cloud</mark><mark>Google Apps Script</mark><mark>Arduino</mark>
+
+          - Upgraded Plugdebug, company's Python-based debug tool.
+          - Created Amazon AWS and MWS automations using Python.
+          - Developed mission-critical spreadsheets for pricing, sales, and ad data.
+          - Designed and implemented an ESP8266-based physical access control system.
+          - Oversight on many SDE intern projects.
+          - Translated all existing Python software from Python 2 to 3.
 
       - layout: left
         title: Discount Divers Supply

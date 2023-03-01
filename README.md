@@ -31,7 +31,7 @@ Senior engineer at a health tech focused software consulting agency leading deve
 
 #### _Software Developer, Jan. 2014 to Feb. 2022_
 
-###### Python • SQL • AWS (EC2, Lambda, CloudWatch, DynamoDB, Secrets Manager, API Gateway) • Google Cloud • Google Apps Script • Arduino
+###### Python • SQL • AWS • Google Cloud • Google Apps Script • Arduino
 
 Multi-role IT generalist position at an online seller startup. Roles included Software Developer, Product Owner, CNC Machinist, Graphic Designer, and Inventory Manager. Started as sixth member of company. Ended as second-most senior employee.
 

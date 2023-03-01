@@ -33,7 +33,7 @@ Senior engineer at a health tech focused software consulting agency leading deve
 
 ###### Python • SQL • AWS • Google Cloud • Google Apps Script • Arduino
 
-Multi-role IT generalist position at an online seller startup. Roles included Software Developer, Product Owner, CNC Machinist, Graphic Designer, and Inventory Manager. Started as sixth member of company. Ended as second-most senior employee.
+Lead developer at an e-commerce startup. Roles included Software Developer, Product Owner, CNC Machinist, Graphic Designer, and Inventory Manager. Started as sixth member of company. Ended as second-most senior employee.
 
 ##### _Software Developer - Lead_
 

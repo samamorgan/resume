@@ -60,11 +60,11 @@ content:
           <mark>Python</mark> <mark>Django</mark> <mark>Postgres</mark> <mark>Typescript</mark> <mark>Alpine.js</mark> <mark>React</mark> <mark>HTMX</mark> <mark>Tailwind CSS</mark> <mark>Jinja</mark>
 
           - Continuous contribution and planning for open-source project template, [django-hydra](https://github.com/Lightmatter/django-hydra). Work included refactoring test suite to use Pytest, automating CI/CD with GitHub actions and dependabot, converting existing automations to work on any OS, and innumerable small contributions and bugfixes.
-          - Contributed to Farewell Fax, Lightmatter's job board service.
-          - Lead engineer for Zest, a telehealth dermatology clinic.
-          - Lead engineer for replacement of the Health Tech Nerds application.
-          - Author and maintainer for the open-source Python API wrapper welkin-health.
-          - Author and maintainer for the open-source Django app django-welkin.
+          - Contributed to [Farewell Fax](https://www.farewellfax.com/), Lightmatter's job board service.
+          - Lead engineer for [Zest](https://www.joinzest.com/), a telehealth dermatology clinic.
+          - Lead engineer for replacement of [Health Tech Nerds](https://www.healthtechnerds.com/) application.
+          - Author and maintainer for the open-source Python API wrapper [welkin-health](https://github.com/Lightmatter/welkin-health).
+          - Author and maintainer for the open-source Django app [django-welkin](https://github.com/Lightmatter/django-welkin).
           - Paired with and continuously mentored 3-5 engineers as part of grooming for engineering management position.
 
       - layout: left
@@ -92,18 +92,18 @@ content:
         quote: >
           Expansive responsibilities as a System Administrator, SCUBA technician, and Sales Associate
         description: |
-          - Managed three POS/inventory systems
-          - Recommended and implemented hardware upgrades
-          - Trained sales staff on use of systems
-          - SCUBA Technician: Repaired, certified, and sold SCUBA equipment
+          - Managed three POS/inventory systems.
+          - Recommended and implemented hardware upgrades.
+          - Trained sales staff on use of systems.
+          - SCUBA Technician: Repaired, certified, and sold SCUBA equipment.
 
       - layout: left
         title: The Computer Shop
         sub_title: Computer Repair Technician
         caption: Renton, WA • 2005 - 2013
         description: |
-          - Built, managed, and maintained computer and network systems for offices ranging from 4 – 20 employees
-          - Consulted with home-use customers. Recommended and installed upgrades post-consultation
+          - Built, managed, and maintained computer and network systems for offices ranging from 4 – 20 employees.
+          - Consulted with home-use customers. Recommended and installed upgrades post-consultation.
 
       - layout: left
         title: Fletcher Contracting
@@ -115,8 +115,8 @@ content:
     content:
       - layout: center
         title: Western Governors University
-        caption: Graduated January 2021
         sub_title: B.S. Software Development
+        caption: Graduated January 2021
 
   - title: Certifications
     layout: text
